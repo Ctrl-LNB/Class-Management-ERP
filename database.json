@@ -1,0 +1,431 @@
+{
+    "meta": {
+        "className": "CSE 60F",
+        "semester": "Summer 2026",
+        "brandImageUrl": "uploads/assets/brand_logo_1784829975.png",
+        "lastUpdated": "2026-07-25T11:07:14+00:00",
+        "adminPasswordHash": "$2y$10$OaIDvQVVHXeZhM/m0AbAW.nShqBA52xYhKfM6QXtnPA6b4pLgSaim"
+    },
+    "classRoutine": {
+        "Sunday": [],
+        "Monday": [],
+        "Tuesday": [
+            {
+                "id": "p_4a21b497",
+                "start": "08:45",
+                "end": "10:05",
+                "subject": "Machine Learning",
+                "faculty": "Ripa Sarkar",
+                "room": "514"
+            },
+            {
+                "id": "p_8beed4bf",
+                "start": "10:05",
+                "end": "11:25",
+                "subject": "Artificial Intelligence",
+                "faculty": "Kh Md Ibtihal",
+                "room": "B105"
+            },
+            {
+                "id": "p_322f4a73",
+                "start": "13:15",
+                "end": "14:35",
+                "subject": "Information Systems Management",
+                "faculty": "Sumaya Akyer",
+                "room": "507"
+            }
+        ],
+        "Wednesday": [
+            {
+                "id": "p_65efb02c",
+                "start": "10:05",
+                "end": "11:25",
+                "subject": "Artificial Intelligence",
+                "faculty": "Kh Md Ibtihal",
+                "room": "614"
+            },
+            {
+                "id": "p_b0e84e7a",
+                "start": "11:25",
+                "end": "12:45",
+                "subject": "Artificial Intelligence Lab",
+                "faculty": "Kh Md Ibtihal",
+                "room": "509"
+            },
+            {
+                "id": "p_d328d0b9",
+                "start": "13:15",
+                "end": "14:35",
+                "subject": "Machine Learning",
+                "faculty": "Ripa Sarkar",
+                "room": "509"
+            }
+        ],
+        "Thursday": [
+            {
+                "id": "p_9dd993ce",
+                "start": "08:45",
+                "end": "10:05",
+                "subject": "Software Project Management",
+                "faculty": "Asfia Moon",
+                "room": "502"
+            },
+            {
+                "id": "p_9bf880dd",
+                "start": "11:25",
+                "end": "12:45",
+                "subject": "Information Systems Management",
+                "faculty": "Sumaya Akyer",
+                "room": "507"
+            },
+            {
+                "id": "p_983124ab",
+                "start": "13:15",
+                "end": "14:35",
+                "subject": "Artificial Intelligence Lab",
+                "faculty": "Kh Md Ibtihal",
+                "room": "509"
+            },
+            {
+                "id": "p_09f8fda6",
+                "start": "14:35",
+                "end": "15:55",
+                "subject": "Software Project Management",
+                "faculty": "Asfia Moon",
+                "room": "608"
+            }
+        ],
+        "Friday": [],
+        "Saturday": []
+    },
+    "examRoutine": [
+        {
+            "id": "e_54777972",
+            "subject": "Information Systems Management",
+            "examType": "Class Test",
+            "date": "2026-08-04",
+            "time": "13:15",
+            "room": "507",
+            "isPinned": true,
+            "topic": "TBA"
+        },
+        {
+            "id": "e_333bbd09",
+            "subject": "Machine Learning",
+            "examType": "Quiz",
+            "date": "2026-07-28",
+            "time": "09:00",
+            "room": "514",
+            "isPinned": true,
+            "topic": "TBA"
+        }
+    ],
+    "faculty": [
+        {
+            "id": "f_35b132c5",
+            "name": "Zarin Tasnim",
+            "designation": "Lecturer",
+            "subject": "",
+            "courseCode": "",
+            "email": "zarin.tasnim1@uttarauniversity.edu.bd",
+            "phone": "+880 1951-679063",
+            "semester": "Summer 2026",
+            "imageUrl": "uploads/faculty/f_35b132c5.png",
+            "classroomCode": "",
+            "isAdvisor": true
+        },
+        {
+            "id": "f_af984109",
+            "name": "Asfia Moon Oishy",
+            "designation": "Lecturer",
+            "subject": "Software Project Management",
+            "courseCode": "CSE0613401",
+            "email": "asfia@uttara.ac.bd",
+            "phone": "+880 1746-701905",
+            "semester": "Summer 2026",
+            "imageUrl": "uploads/faculty/f_af984109.png",
+            "classroomCode": "tjlehcwl",
+            "isAdvisor": false
+        },
+        {
+            "id": "f_cdb03275",
+            "name": "Ripa Sarkar",
+            "designation": "Lecture",
+            "subject": "Machine Learning",
+            "courseCode": "CSE0613405",
+            "email": "ripa.sarkar@uttarauniversity.edu.bd",
+            "phone": "+880 1759-016163",
+            "semester": "Summer 2026",
+            "imageUrl": "uploads/faculty/f_cdb03275.png",
+            "classroomCode": "dtqxjdhv",
+            "isAdvisor": false
+        },
+        {
+            "id": "f_683e6f2d",
+            "name": "Sumaya Akter",
+            "designation": "Lecturer",
+            "subject": "Information Systems Management",
+            "courseCode": "MIS0611401",
+            "email": "sumaya@uttara.ac.bd",
+            "phone": "+880 1846-282774",
+            "semester": "Summer 2026",
+            "imageUrl": "uploads/faculty/f_683e6f2d.jpg",
+            "classroomCode": "u7sbew6w",
+            "isAdvisor": false
+        },
+        {
+            "id": "f_b4857cf8",
+            "name": "Kh Md Ibtihal",
+            "designation": "Lecturer",
+            "subject": "Artificial Intelligence",
+            "courseCode": "CSE0613311",
+            "email": "ibtihal@uttara.ac.bd",
+            "phone": "+880 1687-239755",
+            "semester": "Summer 2026",
+            "imageUrl": "uploads/faculty/f_b4857cf8.jpg",
+            "classroomCode": "7kgiw5zb",
+            "isAdvisor": false
+        },
+        {
+            "id": "f_57280bf5",
+            "name": "Kh Md Ibtihal",
+            "designation": "Lecturer",
+            "subject": "Artificial Intelligence Lab",
+            "courseCode": "CSE0613312",
+            "email": "ibtihal@uttara.ac.bd",
+            "phone": "+880 1687-239755",
+            "semester": "Summer 2026",
+            "imageUrl": "uploads/faculty/f_57280bf5.jpg",
+            "classroomCode": "7kgiw5zb",
+            "isAdvisor": false
+        }
+    ],
+    "roster": [
+        {
+            "sid": "332",
+            "name": "Riad"
+        },
+        {
+            "sid": "334",
+            "name": "Barsha"
+        },
+        {
+            "sid": "322",
+            "name": "Tanzim"
+        },
+        {
+            "sid": "182",
+            "name": "Jamil"
+        },
+        {
+            "sid": "347",
+            "name": "Zaki"
+        },
+        {
+            "sid": "348",
+            "name": "Masum"
+        },
+        {
+            "sid": "349",
+            "name": "Kowser"
+        },
+        {
+            "sid": "350",
+            "name": "Niloy"
+        },
+        {
+            "sid": "413",
+            "name": "Emon"
+        },
+        {
+            "sid": "359",
+            "name": "Tonni"
+        },
+        {
+            "sid": "323",
+            "name": "Raton"
+        },
+        {
+            "sid": "338",
+            "name": "Tamanna"
+        },
+        {
+            "sid": "376",
+            "name": "Shuvo"
+        },
+        {
+            "sid": "006",
+            "name": "Musa"
+        },
+        {
+            "sid": "051",
+            "name": "Ripa"
+        },
+        {
+            "sid": "262",
+            "name": "Nayem"
+        },
+        {
+            "sid": "327",
+            "name": "Liza"
+        },
+        {
+            "sid": "333",
+            "name": "Tabassum"
+        },
+        {
+            "sid": "343",
+            "name": "Juwel"
+        },
+        {
+            "sid": "330",
+            "name": "Siam"
+        },
+        {
+            "sid": "477",
+            "name": "Kotha"
+        },
+        {
+            "sid": "012",
+            "name": "Khing"
+        },
+        {
+            "sid": "022",
+            "name": "Shumit"
+        },
+        {
+            "sid": "073",
+            "name": "Sadia"
+        },
+        {
+            "sid": "042",
+            "name": "Miftahul"
+        },
+        {
+            "sid": "050",
+            "name": "Nishat"
+        },
+        {
+            "sid": "079",
+            "name": "Sajibur"
+        },
+        {
+            "sid": "196",
+            "name": "Khalid"
+        },
+        {
+            "sid": "219",
+            "name": "Sabbir"
+        },
+        {
+            "sid": "331",
+            "name": "Sakib"
+        },
+        {
+            "sid": "324",
+            "name": "Shakib"
+        },
+        {
+            "sid": "341",
+            "name": "Kaniz"
+        },
+        {
+            "sid": "354",
+            "name": "Ripty"
+        },
+        {
+            "sid": "480",
+            "name": "Joy"
+        },
+        {
+            "sid": "490",
+            "name": "Antoreep"
+        },
+        {
+            "sid": "495",
+            "name": "Sumaiya"
+        },
+        {
+            "sid": "509",
+            "name": "Fahad"
+        },
+        {
+            "sid": "534",
+            "name": "Masud"
+        },
+        {
+            "sid": "547",
+            "name": "Ashiqur"
+        },
+        {
+            "sid": "552",
+            "name": "Siam"
+        },
+        {
+            "sid": "561",
+            "name": "Pithee"
+        },
+        {
+            "sid": "574",
+            "name": "Emon"
+        },
+        {
+            "sid": "575",
+            "name": "Dipto"
+        },
+        {
+            "sid": "585",
+            "name": "Bayzid"
+        },
+        {
+            "sid": "586",
+            "name": "Ahonaf"
+        },
+        {
+            "sid": "589",
+            "name": "Ariful"
+        },
+        {
+            "sid": "584",
+            "name": "Shimul"
+        },
+        {
+            "sid": "590",
+            "name": "Masheat"
+        },
+        {
+            "sid": "528",
+            "name": "Nazmul"
+        }
+    ],
+    "attendance": [],
+    "tasks": [
+        {
+            "id": "t_e5509bd0",
+            "title": "Abds",
+            "subject": "df",
+            "deadline": "2026-08-01",
+            "note": "",
+            "status": "pending",
+            "assignedDate": "2026-07-25",
+            "isPinned": false
+        }
+    ],
+    "notice": {
+        "title": "Enrollment",
+        "note": "Date Today",
+        "link": "mrh.page.gd",
+        "resource": ""
+    },
+    "notices": [
+        {
+            "id": "n_1b7a36b7",
+            "title": "Enrollement (Fall 2026)",
+            "note": "Deadline : 31 - 08 - 2026",
+            "link": "",
+            "resource": "",
+            "date": "2026-07-25 10:18",
+            "isPinned": false
+        }
+    ]
+}
